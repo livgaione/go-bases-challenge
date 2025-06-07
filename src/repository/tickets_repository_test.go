@@ -41,7 +41,6 @@ func TestGetByCountryWithNoDestination(t *testing.T) {
 	require.Nil(t, result)
 
 }
-
 func TestGetByCountryWithNoFoundDestination(t *testing.T) {
 
 	mockTickets := []model.Ticket{
