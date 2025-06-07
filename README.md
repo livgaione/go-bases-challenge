@@ -68,8 +68,8 @@ Response:
             "Country": "Czech Republic",
             "Hour": "0:31",
             "Price": 1398
-        },,
-  ]
+            },
+          ]   
 }
 ```
 
@@ -96,7 +96,7 @@ Response:
             "Country": "Argentina",
             "Hour": "18:36",
             "Price": 1238
-        },,
+        },
   ]
 }
 ```
