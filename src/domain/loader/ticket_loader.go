@@ -39,4 +39,5 @@ func LoadTickets() []model.Ticket {
 	}
 
 	return tickets
+
 }
