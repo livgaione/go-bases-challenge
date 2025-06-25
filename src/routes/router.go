@@ -15,4 +15,5 @@ func NewRouter(ctrl controller.TicketsController) http.Handler {
 	r.Get("/tickets/{country}/percentage", ctrl.AverageDestination)
 
 	return r
+
 }
